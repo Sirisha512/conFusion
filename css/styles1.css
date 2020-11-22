@@ -1,0 +1,26 @@
+.jumbotron{
+    margin: 0px auto;
+    padding: 50px;
+    background: rgb(137, 90, 175);
+    color: white;
+}
+
+.row-header{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.row-content {
+    margin:10px 30px 10px 10px;
+    padding: 20px;
+    border-bottom: 1px ridge;
+    min-height:300px;
+    text-align: left;
+}
+
+.footer{
+    background-color: #d0c0da;
+    margin:0px auto;
+    padding: 10px;
+}
+
