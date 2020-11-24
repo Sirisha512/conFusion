@@ -42,3 +42,8 @@ body{
 .navbar-dark{
     background-color:#e03476f3 ;
 }
+
+.btn-group{
+    padding-top: 20px;
+
+}
