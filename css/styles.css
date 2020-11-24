@@ -8,11 +8,11 @@
     padding: 20px;
     border-bottom: 1px ridge;
     min-height:300px;
-    text-align: center;
+    text-align: left;
 }
 
 .footer{
-    background-color: #d4b8cb;
+    background-color: #bcb8d4;
     margin:0px auto;
     padding: 20px;
 }
@@ -20,7 +20,7 @@
 .jumbotron {
     padding:50px;
     margin:0px auto;
-    background: #af3a61 ;
+    background: #805dd1 ;
     color:floralwhite;
 }
 
@@ -32,4 +32,13 @@ address{
 
 .row-at{
     margin: 40px;
+}
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color:#e03476f3 ;
 }

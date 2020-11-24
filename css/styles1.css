@@ -1,11 +1,13 @@
-.jumbotron{
-    margin: 0px auto;
-    padding: 50px;
-    background: rgb(137, 90, 175);
-    color: white;
+
+.jumbotron {
+    padding:50px;
+    margin:0px auto;
+    background: #af3a61 ;
+    color:floralwhite;
 }
 
-.row-header{
+.row-header
+{
     margin: 0px auto;
     padding: 0px;
 }
@@ -22,5 +24,15 @@
     background-color: #d0c0da;
     margin:0px auto;
     padding: 10px;
+}
+
+address{
+    font-size:100%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.row-at{
+    margin: 40px;
 }
 
