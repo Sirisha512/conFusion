@@ -150,9 +150,13 @@
                         <div class="m-0 pt-2 form-group row">
                             <label for="section" class="mt-3 col-sm-2 col-form-label"> Section</label>                            
                                 <div class="mb-3 ml-3 pb-1">
-                                    <div class="btn-group" role="group">
-                                    <button type="button" class="btn btn-success active"> Non Smoking</button>
-                                    <button type="button" class="btn btn-danger"> Smoking</button>
+                                    <div class="btn-group btn-group-toggle" data-toggle="buttons">                                    
+                                        <label class="btn btn-success active">
+                                            <input type="radio" name="section" value="non_smoking" id="non-smoking" checked> Non Smoking
+                                        </label> 
+                                        <label class="btn btn-danger">
+                                            <input type="radio" name="section" value="smoking" id="smoking"> Smoking
+                                        </label>                                     
                                 </div>
                             </div>                           
 
